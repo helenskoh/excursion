@@ -1,6 +1,7 @@
 html {
   font-family: verdana;
   text-align: center;
+  background-color: black;
   color: white;
 }
 
@@ -8,8 +9,6 @@ html {
   font-weight: normal;
   font-size: 60px
   color: white;
-  text-align: center;
-  font-family: verdana;
 }
 
 .heading2 {
